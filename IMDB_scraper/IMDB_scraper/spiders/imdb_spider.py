@@ -1,5 +1,5 @@
 # to run 
-# scrapy crawl imdb_spider -o movies.csv
+# scrapy crawl imdb_spider -o results.csv
 
 import scrapy
 
